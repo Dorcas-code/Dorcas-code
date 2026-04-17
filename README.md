@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+##About Me
+- 🌱 I’m currently learning coding and ai
+- 🔭 I like to build and explore!
+> Say something profound here
+> Use this
+
+---
