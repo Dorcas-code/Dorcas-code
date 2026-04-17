@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 > Use this
 
 ---
+## What I'm Working On
+
+I'm currently trying mini habits on running and drawing, and I found learning to code is fun too!
+
