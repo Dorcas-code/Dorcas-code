@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I am Dorcas
-
+![my profile pic downloaded online](./vibrent_10.png)
 <!--
 **Dorcas-code/Dorcas-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
