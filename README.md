@@ -31,5 +31,7 @@ I'm currently trying mini habits on running and drawing, and I found learning to
 ---
 ## Projects
 [Project 1 landing page](#)
+[Project 2 profile page](#)
+
 ---
 
