@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-##About Me
+## About Me
 - 🌱 I’m currently learning coding and ai
 - 🔭 I like to build and explore!
 > Say something profound here
