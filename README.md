@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 
 I'm currently trying mini habits on running and drawing, and I found learning to code is fun too!
 
+---
+## Projects
+
+---
+
